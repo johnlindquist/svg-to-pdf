@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "svg-to-pdfkit": "^0.1.7",
+    "svg.js": "^2.6.6",
+    "svgdom": "^0.0.15"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
